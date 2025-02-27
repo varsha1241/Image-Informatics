@@ -30,7 +30,7 @@ The combined approach significantly reduces noise, ensuring better image quality
 ## Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/repo-name.git  
+   [git clone https://github.com/yourusername/repo-name.git](https://github.com/varsha1241/Image-Informatics.git)  
    ```  
 
 
